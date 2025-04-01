@@ -1,3 +1,6 @@
+
+# demonstration of if 
+
 a = int(input("enter a = "))
 b = int(input("enter b = "))
 
